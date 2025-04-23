@@ -1,6 +1,4 @@
 # kismet
-made with luv
-♡╱|、
-(˚ˎ 。7  
-|、˜〵          
-じしˍ,)ノ
+23042025
+
+first repo made by pul
